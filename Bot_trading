@@ -1,0 +1,20 @@
+#Clasificador de imagenes con ia 
+#Cristopher Rozas 
+#@A3RCR3A
+
+print("Hola mundo desde ia google colaborator")
+
+btc=50000000
+
+print(btc)
+type(btc)
+
+print(btc/2)
+print(btc/4)
+print(btc/8)
+print(btc/16)
+print(btc/32)
+print(btc/64)
+print(btc/128)
+print
+
